@@ -4,7 +4,7 @@
 <div>
   Contact me: 
   <div>
-    <a id="gmail-contact" href="mailto:vuongngxuan0109@gmail.com">
+    <a id="gmail-contact" href="https://mail.google.com/mail/?view=cm&to=vuongngxuan0109%40gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
     <a id="linkedin-contact" href="https://www.linkedin.com/in/vuongngxuan/">
