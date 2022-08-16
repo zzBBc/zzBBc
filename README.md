@@ -1,23 +1,24 @@
 <div width="100%">
-  <img src="https://komarev.com/ghpvc/?username=zzBBc&style=flat&color=3285a8">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=zzBBc&count_private=true&show_icons=true&theme=tokyonight">
-</div>
-<div>
-  Contact me: 
+  <div width="100%">
+    <img src="https://komarev.com/ghpvc/?username=zzBBc&style=flat&color=3285a8">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=zzBBc&count_private=true&show_icons=true&theme=tokyonight">
+  </div>
   <div>
-    <a id="gmail-contact" href="https://mail.google.com/mail/?view=cm&to=vuongngxuan0109%40gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>
-    <a id="linkedin-contact" href="https://www.linkedin.com/in/vuongngxuan/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-    <a id="facebook-contact" href="https://www.facebook.com/vuongngxuan/">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
-    </a>
+    Contact me:
+    <div>
+      <a id="gmail-contact" href="https://mail.google.com/mail/?view=cm&to=vuongngxuan0109%40gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+      </a>
+      <a id="linkedin-contact" href="https://www.linkedin.com/in/vuongngxuan/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+      </a>
+      <a id="facebook-contact" href="https://www.facebook.com/vuongngxuan/">
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+      </a>
+    </div>
   </div>
 </div>
-
-<div>
+<div width="100%">
   <hr/>
 </div>
 
