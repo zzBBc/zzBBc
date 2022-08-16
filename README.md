@@ -16,6 +16,13 @@
     </a>
   </div>
 </div>
+
+<hr/>
+
+<div width="100%">
+  <img style='align="center"; width="50%";' src="./github-metrics.svg" alt="Metrics">
+</div>
+
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzBBc">
  -->
 <!--
