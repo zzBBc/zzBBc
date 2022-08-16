@@ -99,11 +99,3 @@ jobs:
         run: |
           echo Add other actions to build,
           echo Test, and deploy your project.
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
