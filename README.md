@@ -17,10 +17,12 @@
   </div>
 </div>
 
-<hr/>
+<div>
+  <hr/>
+</div>
 
 <div width="100%">
-  <img style='align="center"; width="50%";' src="./github-metrics.svg" alt="Metrics">
+  <img style='align="center"; width="100%";' src="./github-metrics.svg" alt="Metrics">
 </div>
 
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzBBc">
