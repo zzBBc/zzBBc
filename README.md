@@ -18,11 +18,11 @@
     </div>
   </div>
 </div>
-<div width="100%">
+<div width="100%" style="margin: 100px;">
   <hr/>
 </div>
 
-<div width="100%">
+<div width="100%" style="text-align: center;">
   <img style='align="center"; width="100%";' src="./github-metrics.svg" alt="Metrics">
 </div>
 
