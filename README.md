@@ -1,7 +1,7 @@
 <div width="100%">
   <div width="100%">
     <img src="https://komarev.com/ghpvc/?username=zzBBc&style=flat&color=3285a8">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=zzBBc&count_private=true&show_icons=true&theme=tokyonight">
+<!--     <img align="left" src="https://github-readme-stats.vercel.app/api?username=zzBBc&count_private=true&show_icons=true&theme=tokyonight"> -->
   </div>
   <div>
     Contact me:
